@@ -1,0 +1,1 @@
+- A conditional statement is used to make decisions in a program. It allows the program to execute different blocks of code based on whether a condition is true or false. 
